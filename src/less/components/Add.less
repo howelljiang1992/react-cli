@@ -1,0 +1,39 @@
+//input {
+//  &.input-title {
+//    margin-bottom: 50px;
+//  }
+//}
+section.main-container {
+  .ant-form-item:not(.ant-form-item-content):not(.ant-form-item-banner):not(.ant-form-item-textarea) {
+    height: 50px;
+  }
+  .ant-form-item-content {
+    .RichEditor-root {
+      min-height: 646px;
+      border-radius: 6px;
+    }
+  }
+  .ant-form-item-banner {
+    height: 168px;
+  }
+  .ant-form-item-textarea {
+    height: 129px;
+  }
+  .ant-form-item-with-help {
+    margin-bottom: 24px;
+  }
+  .ant-form-item-t-fake {
+      clear: both;
+      height: 0!important;
+      margin-top: -40px;
+      margin-bottom: 45px;
+      label, span, input {
+          height: 0;
+          padding: 0;
+          opacity: 0;
+      }
+      div:after {
+          content: ''
+      }
+  }
+}

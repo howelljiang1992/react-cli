@@ -1,0 +1,116 @@
+{
+  "getData.do": {
+    "success": true,
+    "message": "",
+    "data": [
+      {
+        "id": 1,
+        "title": "新闻标题1",
+        "date": "1475464110232",
+        "status": 1,
+        "editor": "claudeliang",
+        "onShelf": 1
+      },
+      {
+        "id": 2,
+        "title": "新闻标题2",
+        "date": "1475464110232",
+        "status": 1,
+        "editor": "claudeliang",
+        "onShelf": 1
+      },
+      {
+        "id": 3,
+        "title": "新闻标题3",
+        "date": "1475464110232",
+        "status": 1,
+        "editor": "claudeliang",
+        "onShelf": 1
+      },
+      {
+        "id": 4,
+        "title": "新闻标题4",
+        "date": "1475464110232",
+        "status": 2,
+        "editor": "claudeliang",
+        "onShelf": 1
+      },
+        {
+        "id": 5,
+        "title": "新闻标题4",
+        "date": "1475464110232",
+        "status": 2,
+        "editor": "claudeliang",
+        "onShelf": 1
+      },
+        {
+        "id": 6,
+        "title": "新闻标题4",
+        "date": "1475464110232",
+        "status": 2,
+        "editor": "claudeliang",
+        "onShelf": 1
+      },  {
+        "id": 7,
+        "title": "新闻标题4",
+        "date": "1475464110232",
+        "status": 2,
+        "editor": "claudeliang",
+        "onShelf": 1
+      },
+        {
+        "id": 8,
+        "title": "新闻标题4",
+        "date": "1475464110232",
+        "status": 2,
+        "editor": "claudeliang",
+        "onShelf": 1
+      },
+      {
+        "id": 9,
+        "title": "新闻标题4",
+        "date": "1475464110232",
+        "status": 2,
+        "editor": "claudeliang",
+        "onShelf": 1
+      },
+       {
+        "id": 10,
+        "title": "新闻标题4",
+        "date": "1475464110232",
+        "status": 2,
+        "editor": "claudeliang",
+        "onShelf": 1
+      },
+         {
+        "id": 11,
+        "title": "新闻标题4",
+        "date": "1475464110232",
+        "status": 2,
+        "editor": "claudeliang",
+        "onShelf": 1
+      },
+         {
+        "id": 12,
+        "title": "新闻标题4",
+        "date": "1475464110232",
+        "status": 2,
+        "editor": "claudeliang",
+        "onShelf": 1
+      }
+    ]
+  },
+  "changeShelfStatus.do": {
+    "success": true,
+    "message": ""
+  },
+  "topShelf.do": {
+    "success": true,
+    "message": ""
+  },
+  "upload.do": {},
+
+  "userinfo.do":{
+    "username":"江鸿飞"
+  }
+}

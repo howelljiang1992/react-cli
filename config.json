@@ -1,0 +1,23 @@
+{
+  "rtxname": "claudeliang",
+  "sourcepath": "/cygdrive/F/webapp/webapp_health_portalcms/frontend-build/",
+  "ip": "172.27.206.72",
+  "distpath": "local/resin19/webapps/webapp_health_portalcms/",
+  "watcher": "./src/js/main",
+  "delete": "no",
+  "restart": "no",
+  "isOverride": "1",
+  "exclude": [
+    ".idea/",
+    ".svn/",
+    "install.bat",
+    "gulpfile.js/",
+    "src/",
+    "doc/",
+    "WEB-INF/",
+    "node_modules/",
+    "config.json",
+    "README.md",
+    "package.json"
+  ]
+}
